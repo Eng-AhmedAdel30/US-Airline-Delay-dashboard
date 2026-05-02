@@ -6,17 +6,23 @@
 
 ## 📊 Dashboard Preview
 
+### Cover
+![Cover](Screenshots/cover.png)
+
 ### Overview Page
-![Overview](screenshots/overview.png)
+![Overview](Screenshots/overview.png)
 
 ### Delay Causes Breakdown
-![Delay Causes](screenshots/delay_causes.png)
+![Delay Causes](Screenshots/Delay%20Analysis.png)
 
 ### Airline Performance
-![Airline Performance](screenshots/airline_performance.png)
+![Airline Performance](Screenshots/Carieer%20Analysis.png)
 
 ### Route & Airport Analysis
-![Routes](screenshots/routes.png)
+![Routes](Screenshots/Route&%20Airport%20Analysis.png)
+
+### Star schema
+![Modeling](Screenshots/model%20view.png)
 
 ---
 
@@ -24,19 +30,6 @@
 
 This project analyzes the [Airline Delay Causes dataset](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses/data) published by the **U.S. Bureau of Transportation Statistics (BTS)**. Starting from raw flight records, the project walks through a full analytics pipeline: data cleaning, dimensional modeling, and visual reporting.
 
----
-
-## 🗂️ Project Structure
-
-```
-├── Data_Cleaning_Airline.ipynb   # Data wrangling & cleaning pipeline
-├── Data_Modeling.ipynb           # Star schema design & dimension building
-├── Final.pbix                    # Power BI dashboard
-├── screenshots/                  # Dashboard preview images
-└── README.md
-```
-
----
 
 ## 🔄 Pipeline
 
@@ -101,3 +94,7 @@ An interactive Power BI report built on the star schema, enabling analysis of:
 
 - **Dataset:** [Airline Delay Causes — Kaggle](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses/data)
 - **Publisher:** U.S. Bureau of Transportation Statistics (BTS)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Adel-blue?logo=linkedin)](https://www.linkedin.com/in/eng-ahmedadel30)
